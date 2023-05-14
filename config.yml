@@ -1,0 +1,16 @@
+languageCode: en-us
+title: Michael Samoylenko - Blog
+theme: "PaperMod"
+
+security:
+  exec:
+    allow:
+      - ^asciidoctor$
+
+markup:
+  asciidocext:
+    extensions:
+      - asciidoctor-html5s
+      - asciidoctor-diagram
+    workingFolderCurrent: true
+    trace: true

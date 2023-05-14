@@ -1,0 +1,4 @@
+= Michael Samoylenko Blog
+
+My blog, moved from self-hosted https://wordpress.com[WordPress]
+to https://pages.github.com[Github Pages] (and converted to markdown format)

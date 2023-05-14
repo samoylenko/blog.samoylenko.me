@@ -1,6 +1,9 @@
 # IDE
 .idea/
 
-# Jekyll
-_site/
-.jekyll-cache/
+# Local Build
+public/
+resources/_gen/
+assets/jsconfig.json
+hugo_stats.json
+.hugo_build.lock
