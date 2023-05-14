@@ -47,7 +47,10 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-        run: hugo --minify --baseURL "https://samoylenko.github.io/blogtest" --destination public
+        run: hugo \
+          --minify \
+          --baseURL "${{ steps.pages.outputs.base_url }}/" \
+          --destination public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
