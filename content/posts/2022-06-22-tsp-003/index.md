@@ -18,7 +18,7 @@ confusing, and I think they are doing the opposite of what this project (TSP) is
 trying to achieve, which is simplicity... With dozens of fields for each issue,
 I don't think it'll be easy for any downstream consumer, whether a machine or a
 human, to consume and process that complex data. The [previous experience with
-SonarQube]({% link _posts/2022-06-09-tsp-002.md %}) was much more productive.
+SonarQube](../2022-06-09-tsp-002) was much more productive.
 
 So I am leaving this work finished only at the basic functionality state, i.e.,
 I got DefectDojo export working, but I am dropping any work on SARIF support for
