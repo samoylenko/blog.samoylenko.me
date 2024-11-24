@@ -14,7 +14,7 @@ The metaphor is for vulnerability management and supply chain issues, and while,
 > Let's put the word "security vulnerability" aside and use something that illustrates our customer's frustration a bit better -
 >
 > * Our customers are complaining about the horrid stink in our products.
-> * Our primary goal is not to give our customers stinky products. Everything else is secondary to that.
+> * Our primary goal is not to give our customers stinking products. Everything else is secondary to that.
 > * The strength (volume) of the stink is the most crucial metric that can be managed - not the specific source of the stink nor why it stinks the particular stink. For our customers, it matters very little what exactly stinks and where.
 > * Let's focus on removing as much stink as possible as fast as possible.
 > * Of course, due to the specifics of our profession, we differentiate between objects that produce stink: it matters what exactly stinks to us. But all those details matter little to our customers.
