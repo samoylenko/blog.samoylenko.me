@@ -3,7 +3,7 @@ title: "An interesting metaphor I had to come up with for a colleague in Product
 date: "2024-11-24"
 original_date: "2024-11-24"
 categories:
-  - infosec"
+  - "infosec"
 
 ---
 
